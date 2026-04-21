@@ -310,12 +310,6 @@
         <mxCell id="AmMrehBNmhH-vNl2xp9P-159" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="AmMrehBNmhH-vNl2xp9P-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wVXNVwrzxQ53A_2Gq6o-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;gradientColor=none;fillStyle=auto;gradientDirection=radial;opacity=20;" value="" vertex="1">
-          <mxGeometry height="240" width="370" x="10" y="640" as="geometry" />
-        </mxCell>
-        <mxCell id="1wVXNVwrzxQ53A_2Gq6o-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;gradientColor=none;fillStyle=auto;gradientDirection=radial;opacity=20;" value="" vertex="1">
-          <mxGeometry height="150" width="370" x="10" y="890" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
