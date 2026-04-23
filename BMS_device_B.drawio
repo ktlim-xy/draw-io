@@ -325,10 +325,10 @@
           <mxGeometry height="30" width="60" x="310" y="1016" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-149" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSourceType=dependent;elSignalType=dc3;fillColor=#eeeeee;strokeColor=#36393d;" value="Relay Power Supply" vertex="1">
-          <mxGeometry height="60" width="60" x="1180" y="988.5" as="geometry" />
+          <mxGeometry height="60" width="60" x="1250" y="993.5" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-152" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonMakeSwitch2;elSwitchState=1;" value="RELAY_2567" vertex="1">
-          <mxGeometry height="53" width="75" x="1305" y="995.5" as="geometry" />
+          <mxGeometry height="53" width="75" x="1375" y="1000.5" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-158" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="AmMrehBNmhH-vNl2xp9P-97">
           <mxGeometry relative="1" as="geometry" />
