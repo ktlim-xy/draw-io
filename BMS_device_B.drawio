@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="2060" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,13 +548,13 @@
         <mxCell id="xDFs_sNW1PYxy_R46lkO-89" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#FF0000;fontColor=light-dark(#000000,#FF0000);strokeColor=#B20000;fillStyle=auto;fontSize=16;fontStyle=1" value="R- (via)" vertex="1">
           <mxGeometry height="20" width="20" x="1110" y="1068.5" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13 require 12V&lt;br&gt;switch or sub new 4139" vertex="1">
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&lt;div&gt;- require 12V&lt;br&gt;- 4113 limit 10V 6A&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="230" x="360" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.15 require 4V&lt;div&gt;switch any pps&lt;/div&gt;" vertex="1">
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.15&amp;nbsp;&lt;div&gt;- require 4V&lt;div&gt;- switch to any pps&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="360" y="-75" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.3 require 12V&lt;br&gt;switch 4139 (12V) || 4113 (5A)&lt;br&gt;&amp;nbsp;or sub new single 4151 do all" vertex="1">
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.3&lt;div&gt;- require 12V 2.5A&lt;/div&gt;&lt;div&gt;- 4113 limit 10V 6A&lt;/div&gt;" vertex="1">
           <mxGeometry height="49" width="235" x="1245" y="289" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="use existing&lt;br&gt;DMM_4080&amp;nbsp;&lt;div&gt;+ external MUX&lt;/div&gt;" vertex="1">
@@ -649,6 +649,9 @@
         </mxCell>
         <mxCell id="CKN4FDtSZfMQhN3dje1d-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0;fontColor=#000000;labelBorderColor=none;" value="&lt;span&gt;&lt;font&gt;SPDT_3&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HNPHwiaQIsfWHcnALGp0-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&lt;div&gt;- depending on DCPS3 sharing resources&lt;/div&gt;&lt;div&gt;- 4151 assume no sinking requirement&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="420" y="789" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
