@@ -157,7 +157,7 @@
         <mxCell id="AmMrehBNmhH-vNl2xp9P-52" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=16;" value="SPST_2" vertex="1">
           <mxGeometry height="20" width="75" x="263" y="183" as="geometry" />
         </mxCell>
-        <mxCell id="CKN4FDtSZfMQhN3dje1d-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;" target="AmMrehBNmhH-vNl2xp9P-67">
+        <mxCell id="CKN4FDtSZfMQhN3dje1d-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1440" y="79" />
@@ -314,7 +314,7 @@
         <mxCell id="xDFs_sNW1PYxy_R46lkO-15" edge="1" parent="1" source="xDFs_sNW1PYxy_R46lkO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;fontSize=16;" target="xDFs_sNW1PYxy_R46lkO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-13" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#e51400;fontColor=light-dark(#000000,#FF0000);strokeColor=#B20000;fontSize=16;fontStyle=1" value="CHG+" vertex="1">
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-13" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#e51400;fontColor=light-dark(#000000,#FF0000);strokeColor=#B20000;fontSize=16;fontStyle=1" value="CH+" vertex="1">
           <mxGeometry height="20" width="20" x="1230" y="1068.5" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;fontSize=16;" value="MUX_com1" vertex="1">
