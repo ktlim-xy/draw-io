@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmMrehBNmhH-vNl2xp9P-110" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#33FF33;strokeColor=#b46504;fontSize=16;" value="PPS_4151_1" vertex="1">
+        <mxCell id="AmMrehBNmhH-vNl2xp9P-110" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#999999;strokeColor=#b46504;fontSize=16;" value="PPS_4151_1" vertex="1">
           <mxGeometry height="40" width="40" x="190" y="779" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-113" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" target="AmMrehBNmhH-vNl2xp9P-110">
@@ -222,7 +222,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmMrehBNmhH-vNl2xp9P-114" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#33FF33;strokeColor=#b46504;fontSize=16;" value="PPS_4151_2" vertex="1">
+        <mxCell id="AmMrehBNmhH-vNl2xp9P-114" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#999999;strokeColor=#b46504;fontSize=16;" value="PPS_4151_2" vertex="1">
           <mxGeometry height="40" width="40" x="190" y="941" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-115" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" target="AmMrehBNmhH-vNl2xp9P-114">
@@ -357,10 +357,10 @@
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
         </mxCell>
         <mxCell id="XDCqzOvyLkrVHz7GW-ED-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.9&lt;div&gt;- if use option add switch to 4139 (13V3A) need to use 4151 for Cells&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="370" x="800" y="129" as="geometry" />
+          <mxGeometry height="30" width="370" x="40" y="-11" as="geometry" />
         </mxCell>
         <mxCell id="rq1M_RleSkn__9cDyXQu-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&amp;nbsp;&lt;div&gt;- using 4151 if 4139 is switched to R+/R-, sinking required for this test?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="500" x="379" y="630" as="geometry" />
+          <mxGeometry height="30" width="500" x="40" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
