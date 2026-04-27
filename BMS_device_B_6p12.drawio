@@ -359,6 +359,12 @@
         <mxCell id="CKN4FDtSZfMQhN3dje1d-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0;fontColor=#000000;labelBorderColor=none;" value="&lt;span&gt;&lt;font&gt;SPDT_3&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
         </mxCell>
+        <mxCell id="gXseKLdfnfjOWOf0cFGt-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&amp;nbsp;&lt;div&gt;- using 4151 if 4139 is switched to R+/R-, sinking required for this test?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="40" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="gXseKLdfnfjOWOf0cFGt-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.9&lt;div&gt;- if use option add switch to 4139 (13V3A) need to use 4151 for Cells&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="40" y="-30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
