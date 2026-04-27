@@ -394,6 +394,9 @@
         <mxCell id="XDCqzOvyLkrVHz7GW-ED-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.9&lt;div&gt;- if use option add switch to 4139 (13V3A) need to use 4151 for Cells&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="800" y="129" as="geometry" />
         </mxCell>
+        <mxCell id="rq1M_RleSkn__9cDyXQu-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&amp;nbsp;&lt;div&gt;- using 4151 if 4139 is switched to R+/R-, sinking required for this test?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="379" y="630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
