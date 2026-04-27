@@ -279,6 +279,12 @@
         <mxCell id="OY7BBzzILeFo7wQv0PC5-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&amp;nbsp;&lt;div&gt;- require 12V 100mA power but 4113 limit (10V 6A)&lt;/div&gt;&lt;div&gt;- option: add switch or sub with new 4139 (13V3A)&lt;/div&gt;&lt;div&gt;- does not require 4113 as R+/R- does not need high &amp;gt;3A current&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="500" x="40" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="-wda2WLXLInOucJvQf-9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Brounded%3D0%3BfontStyle%3D1%3BfontColor%3D%23000000%3BfontSize%3D16%3BlabelBorderColor%3Ddefault%3BlabelBackgroundColor%3D%23FFFF33%3B%22%20value%3D%22%236.6%20-%206.13%26amp%3Bnbsp%3B%26lt%3Bdiv%26gt%3B-%20using%204151%20for%20high%20current%2C%20sinking%20required%20for%20this%20test%3F%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%22500%22%20x%3D%22430%22%20y%3D%22785%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="-wda2WLXLInOucJvQf-9-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&amp;nbsp;&lt;div&gt;- using 4151 for high current, sinking required for this test?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="440" y="789" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
