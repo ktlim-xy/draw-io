@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="1582" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2056" dy="2558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,6 +61,14 @@
         <mxCell id="973CXGUdfXfIav83ZB7D-33" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xDFs_sNW1PYxy_R46lkO-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k6x421WChCzxNLpas0T3-7" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#000000;" target="ut0EFtYtc0knoEUNgQ_g-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="199" />
+              <mxPoint x="560" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-44" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#e51400;fontColor=light-dark(#000000,#FF0000);strokeColor=#B20000;fontSize=16;fontStyle=1" value="R-" vertex="1">
           <mxGeometry height="20" width="20" x="590" y="189" as="geometry" />
         </mxCell>
@@ -120,6 +128,9 @@
               <mxPoint x="90" y="704" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="k6x421WChCzxNLpas0T3-4" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.8;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#000000;" target="ut0EFtYtc0knoEUNgQ_g-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-97" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#000000;strokeColor=#36393d;fontSize=16;" value="PPS_4139_1" vertex="1">
           <mxGeometry height="40" width="40" x="70" y="779" as="geometry" />
@@ -232,7 +243,7 @@
           <mxGeometry height="20" width="120" x="639" y="159" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 to 6.13&amp;nbsp;&lt;div&gt;- require 12V 100mA power but 4113 source 10V 6A only&lt;/div&gt;&lt;div&gt;- option: switch to 4139 source 13V 3A&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="500" x="110" y="280" as="geometry" />
+          <mxGeometry height="30" width="500" x="10" y="-11" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontColor=#000000;labelBorderColor=default;flipV=1;legacyAnchorPoints=0;" value="&lt;span&gt;&lt;font&gt;DCPS2&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="981" as="geometry" />
@@ -284,10 +295,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ut0EFtYtc0knoEUNgQ_g-17" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=16;" value="SPST_2" vertex="1">
-          <mxGeometry height="20" width="75" x="400" y="470" as="geometry" />
+        <mxCell id="k6x421WChCzxNLpas0T3-5" edge="1" parent="1" source="ut0EFtYtc0knoEUNgQ_g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#000000;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ut0EFtYtc0knoEUNgQ_g-18" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=16;" value="SPST_1" vertex="1">
+        <mxCell id="ut0EFtYtc0knoEUNgQ_g-17" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=16;fillColor=#e51400;fontColor=#000000;strokeColor=#B20000;" value="SPST_29" vertex="1">
+          <mxGeometry height="20" width="75" x="400" y="424" as="geometry" />
+        </mxCell>
+        <mxCell id="k6x421WChCzxNLpas0T3-3" edge="1" parent="1" source="ut0EFtYtc0knoEUNgQ_g-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#000000;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut0EFtYtc0knoEUNgQ_g-18" parent="1" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;fontSize=16;fillColor=#e51400;fontColor=#000000;strokeColor=#B20000;" value="SPST_28" vertex="1">
           <mxGeometry height="20" width="75" x="400" y="350" as="geometry" />
         </mxCell>
       </root>
