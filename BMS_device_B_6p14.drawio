@@ -277,6 +277,9 @@
         <mxCell id="HLFn-VWBDzY-BWyvdq5B-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;BMS Device B Pin-Switch-Resource Mapping&amp;nbsp; Test#&amp;nbsp;6.14 Loaded Circuit Voltage&lt;/b&gt;" vertex="1">
           <mxGeometry height="65" width="1010" x="10" y="-152.5" as="geometry" />
         </mxCell>
+        <mxCell id="HLFn-VWBDzY-BWyvdq5B-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.14&lt;div&gt;- switch to 4151 to source higher current&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="500" x="490" y="800" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
