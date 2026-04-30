@@ -548,14 +548,14 @@
         <mxCell id="xDFs_sNW1PYxy_R46lkO-89" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fillColor=#FF0000;fontColor=light-dark(#000000,#FF0000);strokeColor=#B20000;fillStyle=auto;fontSize=16;fontStyle=1" value="R- (via)" vertex="1">
           <mxGeometry height="20" width="20" x="1110" y="1068.5" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&lt;div&gt;- require 12V&lt;br&gt;- 4113 limit 10V 6A&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="360" y="125" as="geometry" />
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 to 6.13&lt;div&gt;- require 12V 100mA power but 4113 source 10V 6A only&lt;/div&gt;&lt;div&gt;- option: switch to 4139 source 13A 3A from Cell+&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="190" y="129" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.15&amp;nbsp;&lt;div&gt;- require 4V&lt;div&gt;- switch to any pps&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="360" y="-75" as="geometry" />
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.15&amp;nbsp;&lt;div&gt;- require 4V 500mA&lt;div&gt;- switch to DCPS3&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="220" y="-71" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.3&lt;div&gt;- require 12V 2.5A&lt;/div&gt;&lt;div&gt;- 4113 limit 10V 6A&lt;/div&gt;" vertex="1">
-          <mxGeometry height="49" width="235" x="1245" y="289" as="geometry" />
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.3&lt;div&gt;- require 12V 2.5A power but 4113 source 10V 6A only&lt;/div&gt;&lt;div&gt;- option: switch to 4151 source 13V 22A from Cell+&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="49" width="420" x="1065" y="289" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="use existing&lt;br&gt;DMM_4080&amp;nbsp;&lt;div&gt;+ external MUX&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="160" x="1177" y="-30" as="geometry" />
@@ -650,8 +650,11 @@
         <mxCell id="CKN4FDtSZfMQhN3dje1d-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0;fontColor=#000000;labelBorderColor=none;" value="&lt;span&gt;&lt;font&gt;SPDT_3&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
         </mxCell>
-        <mxCell id="HNPHwiaQIsfWHcnALGp0-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 - 6.13&lt;div&gt;- depending on DCPS3 sharing resources&lt;/div&gt;&lt;div&gt;- 4151 assume no sinking requirement&lt;/div&gt;" vertex="1">
+        <mxCell id="HNPHwiaQIsfWHcnALGp0-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="#6.6 to 6.13&lt;div&gt;- switch to 4151 to source higher current&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="430" x="420" y="789" as="geometry" />
+        </mxCell>
+        <mxCell id="wjgK8I0FGqGfpdoaGOZ6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;BMS Device B Pin-Switch-Resource Mapping - Overview&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="65" width="1010" x="10" y="-230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
