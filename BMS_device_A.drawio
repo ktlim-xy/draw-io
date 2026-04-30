@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="1582" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1471" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,6 +346,9 @@
         </mxCell>
         <mxCell id="2ZeAkMjr3HH1xqZQ-aK--4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="*Option to replace 2x SPST with 1x DPST" vertex="1">
           <mxGeometry height="30" width="230" x="560" y="1014" as="geometry" />
+        </mxCell>
+        <mxCell id="A-yCaorReXvtcNxENit9-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="BMS Device A Pin-Switch-Resource Mapping&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="830" x="10" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
