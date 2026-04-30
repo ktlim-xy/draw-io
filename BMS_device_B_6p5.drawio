@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="2060" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -263,6 +263,9 @@
         </mxCell>
         <mxCell id="CKN4FDtSZfMQhN3dje1d-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0;fontColor=#000000;labelBorderColor=none;" value="&lt;span&gt;&lt;font&gt;SPDT_3&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
+        </mxCell>
+        <mxCell id="geolDjuZn6p831fwDoYB-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;BMS Device B Pin-Switch-Resource Mapping&amp;nbsp; Test#&amp;nbsp;6.5 Leakage Current&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="830" y="-135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
