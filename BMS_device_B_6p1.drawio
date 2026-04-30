@@ -262,6 +262,9 @@
         <mxCell id="CKN4FDtSZfMQhN3dje1d-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=0;fontColor=#000000;labelBorderColor=none;" value="&lt;span&gt;&lt;font&gt;SPDT_3&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="300" y="1057.5" as="geometry" />
         </mxCell>
+        <mxCell id="iFz-zMIZ1JP-sNh0QI8D-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" value="&lt;b&gt;BMS Device B Pin-Switch-Resource Mapping&amp;nbsp; Test# 6.1&amp;nbsp;UUT Wake Up&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="830" x="10" y="-135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
