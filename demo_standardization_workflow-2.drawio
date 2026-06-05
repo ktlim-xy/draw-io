@@ -1,130 +1,140 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="1713" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2221" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hYSfua-BQbRec-K6Kwor-53" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=4;size=20;indent=5;fillColor=#d5e8d4;opacity=30;strokeColor=none;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="280" width="200" x="540" y="380" as="geometry" />
+          <mxGeometry height="100" width="380" x="670" y="470" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-52" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=4;size=20;indent=5;fillColor=#dae8fc;opacity=30;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="280" width="200" x="325" y="380" as="geometry" />
+          <mxGeometry height="100" width="380" x="670" y="310" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-51" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;gradientColor=none;fillColor=#FFCCCC;opacity=30;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="1000" width="200" x="90" y="380" as="geometry" />
+          <mxGeometry height="100" width="1580" x="670" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-54" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-3">
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-1" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;" value="&lt;b&gt;I want to create or setup a demo for my specific site&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="200" x="325" y="40" as="geometry" />
+          <mxGeometry height="80" width="200" x="-10" y="160" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;Search the&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Demo Registry List&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;to check if the demo or a similar foundation already exists&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="200" x="325" y="160" as="geometry" />
+          <mxGeometry height="80" width="200" x="230" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-36" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-14">
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-3" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="hYSfua-BQbRec-K6Kwor-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-38" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-44" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;b&gt;Demo exists?&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="80" x="385" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-45" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hYSfua-BQbRec-K6Kwor-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in your site&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-42" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-13" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in another site&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="345" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-39" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in Reference Only&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="560" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-69" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Collaborate with the Demo Owner&lt;/b&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-33" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="&lt;span&gt;Push changes to demo repository in the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="1040" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner updates the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Demo Registry List&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="1280" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-47" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner manages demo repository in the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="1160" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-31" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Create a new site-specific demo repository in the&amp;nbsp;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="345" y="800" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-43" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Fork/Clone the demo repository in the&amp;nbsp;&lt;div&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="345" y="560" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-41" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Become the Demo Owner of your new site-specific demo" vertex="1">
-          <mxGeometry height="80" width="160" x="345" y="680" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-32" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="&lt;div&gt;&amp;nbsp;Build, run, customize, or update the demo&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="920" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-40" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Clone the demo repository from the&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 204, 102);&quot;&gt;&lt;i style=&quot;&quot;&gt;Repository Source&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="560" y="560" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-49" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="hYSfua-BQbRec-K6Kwor-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="365" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-67" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-4" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="320" />
-              <mxPoint x="800" y="720" />
+              <mxPoint x="640" y="200" />
+              <mxPoint x="640" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="465" y="290" as="geometry" />
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-5" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="200" />
+              <mxPoint x="640" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-70" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-28">
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-6" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="640" />
+              <mxPoint x="1160" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;b&gt;Demo exists?&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="470" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-9" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Reuse the site-specific demo repository in the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;NI Global Support Repository&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="160" x="110" y="800" as="geometry" />
+        <mxCell id="hYSfua-BQbRec-K6Kwor-10" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in your site&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-15" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-13" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in another site&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="680" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-18" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in Reference Only&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="680" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-10" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Collaborate with the Demo Owner&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1080" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-13" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="&lt;span&gt;Push changes to demo repository in the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1680" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner updates the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Demo Registry List&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="2080" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-14" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner manages demo repository in the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1880" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-20" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Create a new site-specific demo repository in the&amp;nbsp;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-16" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Fork/Clone the demo repository in the&amp;nbsp;&lt;div&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="880" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-17" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Become the Demo Owner of your new site-specific demo" vertex="1">
+          <mxGeometry height="80" width="160" x="1080" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-12" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="&lt;div&gt;&amp;nbsp;Build, run, customize, or update the demo&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1480" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-19" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="Clone the demo repository from the&amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 204, 102);&quot;&gt;&lt;i style=&quot;&quot;&gt;Repository Source&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="880" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;YES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-11" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Reuse the site-specific demo repository in the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;i style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MOWRYLx8g2Hn1lZqjfGl-2" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="hYSfua-BQbRec-K6Kwor-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
