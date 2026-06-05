@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="1469" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-14" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;b&gt;in Reference Only&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="560" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-69" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Collaborate with the Demo Owner&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="110" y="680" as="geometry" />
@@ -116,6 +119,9 @@
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;NO&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="465" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hYSfua-BQbRec-K6Kwor-70" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hYSfua-BQbRec-K6Kwor-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Reuse the site-specific demo repository in the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;NI Global Support Repository&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="110" y="800" as="geometry" />
