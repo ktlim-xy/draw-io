@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="g0z-q2JBS2K3uRYBQRVi">
-    <mxGraphModel dx="1869" dy="2425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1582" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="hYSfua-BQbRec-K6Kwor-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;" value="&lt;b&gt;I want to create or setup a demo for my specific site&lt;/b&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="410" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;Search the&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Demo Registry List&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;to check if the demo or a similar foundation already exists&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="hYSfua-BQbRec-K6Kwor-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font&gt;&lt;b&gt;Search the&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;SEBU Demo List&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&amp;nbsp;to check if the demo or a similar foundation already exists&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="410" y="40" as="geometry" />
         </mxCell>
         <mxCell id="MOWRYLx8g2Hn1lZqjfGl-3" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="hYSfua-BQbRec-K6Kwor-10">
@@ -82,7 +82,7 @@
         <mxCell id="hYSfua-BQbRec-K6Kwor-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" value="&lt;span&gt;Push changes to demo repository in the&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;NI Global Support Repository&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="1680" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hYSfua-BQbRec-K6Kwor-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner updates the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Demo Registry List&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="hYSfua-BQbRec-K6Kwor-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;b&gt;Demo Owner updates the&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;SEBU Demo List&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="160" x="2080" y="160" as="geometry" />
         </mxCell>
         <mxCell id="MOWRYLx8g2Hn1lZqjfGl-14" edge="1" parent="1" source="hYSfua-BQbRec-K6Kwor-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hYSfua-BQbRec-K6Kwor-19">
