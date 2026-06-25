@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="MBnKH0Sl0J879yQxqcYE">
-    <mxGraphModel dx="858" dy="608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,11 +67,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BKOTjls8wij7QMIK8FSx-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="DAQ device" vertex="1">
-          <mxGeometry height="30" width="120" x="635" y="337" as="geometry" />
+        <mxCell id="BKOTjls8wij7QMIK8FSx-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Measurement&amp;nbsp;&lt;br&gt;Device" vertex="1">
+          <mxGeometry height="30" width="86" x="635" y="339" as="geometry" />
         </mxCell>
-        <mxCell id="BKOTjls8wij7QMIK8FSx-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="Signal Source" vertex="1">
-          <mxGeometry height="30" width="83" x="61" y="321" as="geometry" />
+        <mxCell id="BKOTjls8wij7QMIK8FSx-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Signal&amp;nbsp;&lt;div&gt;Source&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="62" x="83" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="WaZnW2U7DMDrpAUGLCgv-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2" value="Transmission Line" vertex="1">
+          <mxGeometry height="30" width="62" x="361" y="277" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
