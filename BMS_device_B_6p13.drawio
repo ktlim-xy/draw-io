@@ -214,7 +214,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AmMrehBNmhH-vNl2xp9P-97" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#ffff88;strokeColor=#36393d;fontSize=16;" value="PPS_4139_1" vertex="1">
+        <mxCell id="AmMrehBNmhH-vNl2xp9P-97" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#000000;strokeColor=#36393d;fontSize=16;" value="PPS_4139_1" vertex="1">
           <mxGeometry height="40" width="40" x="70" y="779" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-101" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.twoWayContact2;elSwitchState=2;rotation=-180;fontSize=16;" value="" vertex="1">
@@ -230,7 +230,7 @@
         <mxCell id="AmMrehBNmhH-vNl2xp9P-105" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.twoWayContact2;elSwitchState=2;rotation=-180;fontSize=16;" value="" vertex="1">
           <mxGeometry height="30" width="75" x="305" y="1026" as="geometry" />
         </mxCell>
-        <mxCell id="AmMrehBNmhH-vNl2xp9P-107" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#ffff88;strokeColor=#36393d;fontSize=16;" value="PPS_4139_2" vertex="1">
+        <mxCell id="AmMrehBNmhH-vNl2xp9P-107" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc3;rotation=0;fillColor=#000000;strokeColor=#36393d;fontSize=16;" value="PPS_4139_2" vertex="1">
           <mxGeometry height="40" width="40" x="70" y="941" as="geometry" />
         </mxCell>
         <mxCell id="AmMrehBNmhH-vNl2xp9P-109" edge="1" parent="1" source="AmMrehBNmhH-vNl2xp9P-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" target="AmMrehBNmhH-vNl2xp9P-107">
