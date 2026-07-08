@@ -239,7 +239,7 @@
         <mxCell id="xDFs_sNW1PYxy_R46lkO-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FFFF;fontSize=16;" value="MUX_com0_0" vertex="1">
           <mxGeometry height="20" width="120" x="639" y="159" as="geometry" />
         </mxCell>
-        <mxCell id="xDFs_sNW1PYxy_R46lkO-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="use existing&lt;br&gt;DMM_4080&amp;nbsp;&lt;div&gt;+ external MUX&lt;/div&gt;" vertex="1">
+        <mxCell id="xDFs_sNW1PYxy_R46lkO-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=#000000;fontSize=16;labelBorderColor=default;labelBackgroundColor=#FFFF33;" value="1x DMM_4080&amp;nbsp;&lt;div&gt;+ external MUX&lt;/div&gt;" vertex="1">
           <mxGeometry height="58" width="160" x="1177" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="xDFs_sNW1PYxy_R46lkO-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontColor=#000000;labelBorderColor=default;" value="&lt;span&gt;&lt;font&gt;DCPS2&lt;/font&gt;&lt;/span&gt;" vertex="1">
